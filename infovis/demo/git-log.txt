@@ -1,0 +1,13 @@
+*   43a94acf (HEAD -> working_mito) Merge branches 'cat' and 'dog' into working_mito
+|\  
+| * fd53f694 (dog) add dog.txt
+* | 86713c0f (cat) add cat.txt
+|/  
+* 21225191 first commit(created hello.txt in demo directory)
+| *   bd6c03c4 (origin/master, master) Merge pull request #1 from masamichiIto/working_mito
+| |\  
+| |/  
+|/|   
+* | bdfa305b (origin/working_mito) 第2回の演習のファイルを追加
+|/  
+* 7879ce71 initial commit
